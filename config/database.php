@@ -8,7 +8,7 @@ class Database
     {
         if (self::$connection === null) {
             $host = 'localhost';
-            $dbname = 'basta_masarap';
+            $dbname = 'FUCKYOU';
             $user = 'root';
             $pass = '';
 
